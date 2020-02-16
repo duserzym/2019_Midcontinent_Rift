@@ -1,4 +1,4 @@
-tab	specimens
+tab 	specimens
 analysts	citations	dir_alpha95	dir_comp	dir_dang	dir_dec	dir_inc	dir_mad_free	dir_n_comps	dir_n_measurements	dir_tilt_correction	experiments	instrument_codes	int_corr	location	meas_step_max	meas_step_min	meas_step_unit	method_codes	result_quality	sample	site	software_packages	specimen
 	This study		mag	0.9	305.8	-57.3	1.5	1	10	-1	AP1-1a:LP-DIR-T	hargrave 2016-05-18 11:01:40	u	Agate Point	853	673	K	LP-DIR-T:DE-BFL:DA-DIR	g	AP1-1	AP1	pmagpy-3.4.1: demag_gui.v.3.0	AP1-1a
 	This study		mag	0.9	123.2	-64.0	1.5	1	10	0	AP1-1a:LP-DIR-T	hargrave 2016-05-18 11:01:40	u	Agate Point	853	673	K	LP-DIR-T:DE-BFL:DA-DIR-GEO	g	AP1-1	AP1	pmagpy-3.4.1: demag_gui.v.3.0	AP1-1a
